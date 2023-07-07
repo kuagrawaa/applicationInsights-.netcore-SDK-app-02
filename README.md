@@ -1,0 +1,1 @@
+# applicationInsights-.netcore-SDK-app-02
